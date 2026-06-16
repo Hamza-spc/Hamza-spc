@@ -20,4 +20,5 @@ Software Engineer | Java / Spring Boot | React / Next.js
 
 - ## 📊 GitHub Stats
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hamza-spc&show_icons=true&theme=radical&hide_rank=true)
