@@ -19,4 +19,5 @@ Software Engineer | Java / Spring Boot | React / Next.js
 - LinkedIn: https://www.linkedin.com/in/hamza-simou-88977a25b/
 
 - ## 📊 GitHub Stats
-- ![Stats](https://github-readme-stats.vercel.app/api?username=Hamza-spc&show_icons=true&theme=radical)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_rank=true)
