@@ -20,4 +20,4 @@ Software Engineer | Java / Spring Boot | React / Next.js
 
 - ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_rank=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hamza-spc&show_icons=true&theme=radical&hide_rank=true)
