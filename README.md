@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋
 
-<!--
-**Hamza-spc/Hamza-spc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Java / Spring Boot | React / Next.js
 
-Here are some ideas to get you started:
+🚀 I build scalable web applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Backend: Java, Spring Boot, FastAPI
+- Frontend: React, Next.js, Flutter
+- DevOps: Docker, AWS, CI/CD
+- Databases: PostgreSQL, MySQL, Redis
+
+## 📌 Featured Projects
+- 🏆 Parkingo – Smart Parking Platform (AI + QR + ALPR)
+- ⚽ KickPro – Talent Discovery Platform
+- 📄 Scan & Track – OCR Receipt Manager
+
+- ## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/hamza-simou-88977a25b/
+
+- ## 📊 GitHub Stats
+- ![Stats](https://github-readme-stats.vercel.app/api?username=Hamza-spc&show_icons=true&theme=radical)
