@@ -10,7 +10,3 @@ Software Engineering student, focused on backend development, DevOps, and CI/CD.
 ## 🔧 Tech Stack
 
 Java, Spring Boot, FastAPI • React, Next.js, Flutter • Docker, AWS • PostgreSQL, MySQL, Redis
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Hamza-spc&show_icons=true&theme=radical&hide_rank=true)
